@@ -38,5 +38,9 @@ git clone https://github.com/JVMuniz01/algoritmo-karatsuba.git
 Dentro da pasta do projeto
 ```bash
 cd target/classes
+```
+Agora execute
+```bash
 java application/AlgoritmoKaratsuba
 ```
+
